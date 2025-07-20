@@ -1,4 +1,4 @@
-# Student Performance Analysis 📊
+Student Performance Analysis 📊
 
 This project analyzes student performance using Python, Pandas, and data visualization tools like Matplotlib and Seaborn.
 
